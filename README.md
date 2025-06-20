@@ -1,2 +1,1 @@
-# kde-dotfiles
-My lowkey kde rice that  I use
+![alt text](https://github.com/Yuzuru10/kde-dotfiles/blob/main/wall.set.png?raw=true)
