@@ -1,1 +1,1 @@
-![alt text](https://github.com/Yuzuru10/kde-dotfiles/blob/main/wall.set.png?raw=true)
+![alt text](https://github.com/Yuzuru10/kde-dotfiles/blob/main/overview.png?raw=true)
